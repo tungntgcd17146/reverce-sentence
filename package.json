@@ -1,0 +1,23 @@
+{
+  "name": "@tung.nguyenthanh2903/reverse-sentence",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "./node_modules/prettier/bin/prettier.cjs . --write"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tungntgcd17146/reverce-sentence.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tungntgcd17146/reverce-sentence/issues"
+  },
+  "homepage": "https://github.com/tungntgcd17146/reverce-sentence#readme",
+  "devDependencies": {
+    "prettier": "3.3.3"
+  }
+}
